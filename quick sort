@@ -4,7 +4,7 @@ using namespace std;
 int ps(int s , int e , int *arr) {
 
 
-int index = 0;
+int index = s;
 
 for (int i = s ; i <e-1 ; i++) {
 
